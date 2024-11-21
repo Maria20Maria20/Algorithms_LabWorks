@@ -1,0 +1,5 @@
+﻿  hammurabi.cpp
+C:\Users\123\source\repos\Lab_1\Lab_1\hammurabi.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Lab_1.vcxproj -> C:\Users\123\source\repos\Lab_1\x64\Debug\Lab_1.exe
