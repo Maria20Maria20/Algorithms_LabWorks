@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\123\Desktop\Github Projects\Algorithms_LabWorks\Lab_2\x64\Debug\Lab_2_tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ArrayTest.DefaultConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.InsertElement" Duration="1" />
+    <TestDuration Test="ArrayTest.InsertAtSpecificIndex" Duration="1" />
+    <TestDuration Test="ArrayTest.RemoveElement" Duration="1" />
+    <TestDuration Test="ArrayTest.IndexOperator" Duration="1" />
+    <TestDuration Test="ArrayTest.IteratorTraversal" Duration="1" />
+    <TestDuration Test="ArrayTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.MoveConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.ResizeFunctionality" Duration="1" />
+    <TestDuration Test="ArrayTest.IteratorDereferenceAndIncrement" Duration="1" />
+    <TestDuration Test="ArrayTest.BeginEndRangeFor" Duration="1" />
+    <TestDuration Test="ArrayTest.CBeginCEnd" Duration="1" />
+    <TestDuration Test="ArrayTest.ConstIteratorTraversal" Duration="1" />
+    <TestDuration Test="ArrayTest.ConstIteratorRangeFor" Duration="1" />
+    <TestDuration Test="ArrayTest.ConstReverseIterator" Duration="1" />
+    <TestDuration Test="ArrayTest.ReverseIteratorTraversal" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.DefaultConstructor" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.InsertElement" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.InsertAtSpecificIndex" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.RemoveElement" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.IndexOperator" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.IteratorDereferenceAndIncrement" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.IteratorTraversal" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.BeginEndRangeFor" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.CBeginCEnd" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.MoveConstructor" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.ResizeFunctionality" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.InsertAndAccess" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.RemoveSlime" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.IteratorSlime" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.RangeForSlime" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.ConstIteratorTraversal" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.ConstReverseIterator" Duration="1" />
+    <TestDuration Test="SlimeArrayTest.ReverseIteratorTraversal" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
